@@ -492,6 +492,7 @@ header .site-branding .site-description {
   font-size: 1.3rem;
   margin: 1rem 0 0;
   text-align: left;
+  text-indent: 2em;
 }
 header .site-navigation {
   text-align: center;
